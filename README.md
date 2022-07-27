@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Neeraj Kumar 
-- 👀 I’m interested in Software development 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning BTech in Computer Science and engineering 
